@@ -1,0 +1,4 @@
+committest
+==========
+
+Test commit hook
