@@ -11,5 +11,6 @@ and another
 
 and another
 
+more text
 
-BRANCH COMMIT
+abcdefg
